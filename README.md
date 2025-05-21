@@ -40,10 +40,11 @@ Pygame - A set of Python modules designed for writing video games.
 ## 📸 Screenshots / GIFs
 (Consider adding a screenshot or a short GIF of the simulation running here to make your README more engaging!)
 
-Example:
+
 ![Simulation Screenshot](https://placehold.co/600x400/000/FFF?text=Planet+Simulation+Screenshot)
 
-##💡 Future Enhancements
+
+## 💡 Future Enhancements
 Add more planets (Jupiter, Saturn, etc.).
 
 Implement user controls for zooming or changing simulation speed.
